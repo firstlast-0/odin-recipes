@@ -1,4 +1,4 @@
 # odin-recipes
 
 Project: Recipes
-TODO
+Basic HTML: links, lists, images, paragraphs, headings
