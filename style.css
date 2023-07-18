@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(24, 24, 24);
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', monospace;
+}
+
+a:link {
+    color: white;
+}
+
+a:active {
+    color: red;
+}
+
+h1, ul, ol {
+    display: inline-block;
+}
+
+img {
+    height: 500px;
+    width: auto;
+}
