@@ -3,10 +3,25 @@ body {
     color: white;
     text-align: center;
     font-family: 'Courier New', monospace;
+    margin: 0;
+}
+
+.but {
+    display: inline-block;
+    margin-top: 30px;
+    font-size: 30px;
+    text-decoration: none;
+    border: 2px solid olivedrab;
+    background-color: black;
+    padding: 15px;
 }
 
 a:link {
     color: white;
+}
+
+.but:hover {
+    background-color: grey;
 }
 
 a:active {
@@ -17,7 +32,16 @@ h1, ul, ol {
     display: inline-block;
 }
 
+.title {
+    font-size: 75px;
+}
+
 img {
     height: 500px;
     width: auto;
+}
+
+div {
+    background-color: olivedrab;
+    margin: 0px;
 }
